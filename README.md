@@ -1,1 +1,1 @@
-# bioinformatics-training.
+# bioinformatics-training- RNA-seq
